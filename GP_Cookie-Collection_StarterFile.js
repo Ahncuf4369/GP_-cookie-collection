@@ -1,7 +1,7 @@
 /*
-    Author:
-    Date:
-    Purpose:
+    Author:Ahnyha Cuffee
+    Date:8/26/2026
+    Purpose: GP Cookie collection
 */
 
 /* =========================================
@@ -53,7 +53,7 @@ const products = [
         price: 4.25,
         image: "images/cinnamon-roll.png",
         alt: "Warm cinnamon roll"
-    }
+    },
     {
     name: "Strawberry Cheesecake",
     description: "A creamy cheesecake topped with sweet strawberries.",
